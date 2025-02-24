@@ -1,0 +1,17 @@
+{
+  "name": "latihan-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "consola": "^3.4.0",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  }
+}
